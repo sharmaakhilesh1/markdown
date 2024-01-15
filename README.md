@@ -45,5 +45,5 @@ We can use shield.io for fancy button but it is also an image
 H~2~0
 
 | RollNumber | Name | Std |
-|--- | --- | --- |
+|--- | --- | --- | --- |
 | 124 | Martin | X |
