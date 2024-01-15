@@ -42,8 +42,12 @@ We can use shield.io for fancy button but it is also an image
 - [x] This is a task 
 - [ ] this is a task
 
-H~2~0
+For subscript and superscript
+
+H~2~O
 
 | RollNumber | Name | Std |
 |--- | --- | --- |
 | 124 | Martin | X |
+
+Use plugin Markdown Preview Enhanced to see the preview in VS code
